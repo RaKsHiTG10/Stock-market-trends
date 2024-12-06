@@ -31,3 +31,5 @@ Cleans and preprocesses text data by removing stopwords and performing tokenizat
 
 # Purpose:
 The project collects financial discussions from Reddit, processes the data, performs sentiment analysis, and applies machine learning models to predict stock trends or market sentiment. The modular structure of the project allows for efficient data collection, preprocessing, and model training.  Applications: This project can be used for financial forecasting, market sentiment analysis, and understanding how Reddit discussions influence stock movements. It integrates data science, NLP, and machine learning to create a predictive model based on social media data.
+
+# Demonstration is done in above .py files
